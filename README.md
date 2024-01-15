@@ -10,3 +10,9 @@
 ## 기능 구현
 ### 1. 동물병원 위치 정보
 <img width="473" alt="위치정보" src="https://github.com/tinakimm/help_pet/assets/103008440/7dc9d695-6acd-43e5-8fb5-b1eca27d9ba5">
+
+### 2. 길찾기 서비스 제공
+![길찾기](https://github.com/tinakimm/help_pet/assets/103008440/4235ff84-83e3-4629-a01b-abe594d9e022)
+
+### 3. 평점별 마커색 구분
+![Uploading 평점구분.png…]()
