@@ -15,4 +15,4 @@
 ![길찾기](https://github.com/tinakimm/help_pet/assets/103008440/4235ff84-83e3-4629-a01b-abe594d9e022)
 
 ### 3. 평점별 마커색 구분
-![Uploading 평점구분.png…]()
+<img width="462" alt="평점구분" src="https://github.com/tinakimm/help_pet/assets/103008440/4b559b97-d6b3-4712-8195-fac7491e6a6e">
