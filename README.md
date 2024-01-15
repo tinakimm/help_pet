@@ -12,7 +12,8 @@
 <img width="473" alt="위치정보" src="https://github.com/tinakimm/help_pet/assets/103008440/7dc9d695-6acd-43e5-8fb5-b1eca27d9ba5">
 
 ### 2. 길찾기 서비스 제공
-![길찾기](https://github.com/tinakimm/help_pet/assets/103008440/4235ff84-83e3-4629-a01b-abe594d9e022)
+<img width="621" alt="길찾기2" src="https://github.com/tinakimm/help_pet/assets/103008440/87e2073e-73f3-427e-9336-d0b6b61e479e">
+
 
 ### 3. 평점별 마커색 구분
 <img width="462" alt="평점구분" src="https://github.com/tinakimm/help_pet/assets/103008440/4b559b97-d6b3-4712-8195-fac7491e6a6e">
